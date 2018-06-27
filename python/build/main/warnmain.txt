@@ -1,0 +1,18 @@
+missing module named nt - imported by os, ntpath, shutil, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py
+missing module named org - imported by pickle, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py
+missing module named _winreg - imported by platform, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py
+missing module named 'java.lang' - imported by platform, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py
+missing module named winreg - imported by platform, mimetypes, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py, urllib.request
+missing module named 'org.python' - imported by copy, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py, xml.sax
+missing module named msvcrt - imported by subprocess, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py, getpass
+missing module named _winapi - imported by subprocess, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py
+missing module named _dummy_threading - imported by dummy_threading, /home/mqt/Projects/KSPControlPanel/ksp-control-panel/python/main.py
+missing module named StringIO - imported by six
+missing module named google.protobuf.enable_deterministic_proto_serialization - imported by google.protobuf, google.protobuf.internal.api_implementation
+missing module named google.protobuf.internal.use_pure_python - imported by google.protobuf.internal, google.protobuf.internal.api_implementation
+missing module named google.protobuf._use_fast_cpp_protos - imported by google.protobuf, google.protobuf.internal.api_implementation
